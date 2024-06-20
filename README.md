@@ -24,6 +24,6 @@ This repository encourages contributions! Whether you have additional resources 
 
 ### Contact Information:
 
-For questions, suggestions, or collaborations, please feel free to contact us directly through GitHub or via email at [your-email-address@example.com](mailto:your-email-address@example.com).
+For questions, suggestions, or collaborations, please feel free to contact us directly through GitHub or via email at [denis.marini@gmail.com](mailto:denis.marini@gmail.com).
 
 Explore, learn, and advance your knowledge in generative AI with **Generative AI Study Notes**!
