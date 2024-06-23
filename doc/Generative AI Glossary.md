@@ -19,6 +19,25 @@
 
 ## Models and Architectures
 
+- **Encoder**
+  - A component of a neural network, particularly in sequence-to-sequence models, that processes the input data and converts it into a fixed-size context or feature representation. This representation is then used by the decoder to generate the output sequence.
+
+- **Decoder**
+  - A component of a neural network, particularly in sequence-to-sequence models, that takes the context or feature representation produced by the encoder and generates the output sequence. The decoder often uses attention
+
+
+- **Context or Feature Representation**
+  - A fixed-size vector or set of vectors produced by the encoder in a neural network, summarizing the important information from the input data. This representation captures the essential features and context needed by the decoder or other subsequent layers to perform tasks such as translation, summarization, or classification.
+
+- **Feed-Forward Network**
+  - An artificial neural network in which the connections between nodes do not form cycles. Information moves in only one direction: from the input nodes to the output nodes, passing through any hidden nodes. Each node in the hidden and output layers applies an activation function to produce an output. Feed-forward networks are commonly used for classification and regression problems and are trained using backpropagation algorithms.
+
+- **ReLU (Rectified Linear Unit)**
+  - A popular activation function used in neural networks that returns zero for negative inputs and the input itself for positive inputs, promoting sparsity and alleviating the vanishing gradient problem.
+
+- **tanh (Hyperbolic Tangent)**
+  - An activation function commonly used in neural networks that squashes input values to the range [-1, 1], making it effective for outputs that range from -1 to 1.
+
 - **Autoencoder**
   - A type of neural network used for unsupervised learning that aims to learn efficient representations of data by encoding input data into a lower-dimensional latent space and then reconstructing it.
 
@@ -52,7 +71,13 @@
   - A technique used in neural networks, especially in transformers, to dynamically focus on different parts of the input sequence, improving the model's performance on tasks like translation and summarization.
 
 - **Self-Attention**
-  - A mechanism within the transformer architecture where each element of the input attends to all other elements, enabling the model to capture dependencies regardless of their distance in the sequence.
+  - A mechanism used in neural networks, particularly in transformer models, that allows each element of the input sequence to attend to all other elements. This mechanism enables the model to capture dependencies regardless of their distance in the sequence, enhancing the model's ability to understand and generate complex patterns in data.
+
+- **Encoder-Decoder Attention**
+  - A mechanism used in sequence-to-sequence models where the decoder attends to different parts of the encoder's output at each step of generating the output sequence. This allows the decoder to selectively focus on relevant parts of the input sequence, improving the quality of tasks such as translation and summarization.
+
+- **Word Embedding**
+  - A representation of words in a continuous vector space where words with similar meanings have similar representations. Word embeddings are typically learned from large corpora of text using techniques like Word2Vec, GloVe, or FastText, and they capture semantic relationships between words, enabling better performance in natural language processing tasks.
 
 - **Tokenization**
   - The process of converting text into smaller units (tokens), such as words or subwords, which can be processed by a language model.
