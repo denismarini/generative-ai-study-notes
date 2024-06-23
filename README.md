@@ -27,6 +27,12 @@ https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
 
 https://www.coursera.org/learn/machine-learning
 
+## Neural Networks ##
+
+- [Visual Interactive Guide to Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+- [Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning)
+
+
 ## Transformer ##
 
 1. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/?utm_campaign=Commit+%2337&utm_content=Commit+%2337&utm_medium=email_action&utm_source=customer.io)
