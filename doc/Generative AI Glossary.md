@@ -25,7 +25,6 @@
 - **Decoder**
   - A component of a neural network, particularly in sequence-to-sequence models, that takes the context or feature representation produced by the encoder and generates the output sequence. The decoder often uses attention
 
-
 - **Context or Feature Representation**
   - A fixed-size vector or set of vectors produced by the encoder in a neural network, summarizing the important information from the input data. This representation captures the essential features and context needed by the decoder or other subsequent layers to perform tasks such as translation, summarization, or classification.
 

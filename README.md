@@ -1,13 +1,22 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/denismarini/generative-ai-study-notes)
-![GitHub Repo stars](https://img.shields.io/github/stars/denismarini/generative-ai-study-notes)
 ![GitHub watchers](https://img.shields.io/github/watchers/denismarini/generative-ai-study-notes)
 ![GitHub Repo stars](https://img.shields.io/github/stars/denismarini/generative-ai-study-notes)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/denismarini/generative-ai-study-notes)
 
 
+<p align="center">
+ <img src="gallery/umarell.png" width="120"/>
+</p>
 
 
+## Transformer ##
+
+1. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/?utm_campaign=Commit+%2337&utm_content=Commit+%2337&utm_medium=email_action&utm_source=customer.io)
+1. [Glossary of deep learning word embedding](https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca)
+1. [wevi: word embedding visual inspector](https://ronxin.github.io/wevi/)
+1. [Word Embedding Explained and Visualized - word2vec and wevi](https://www.youtube.com/watch?v=D-ekE-Wlcds)
 
 
 ## Generative AI Study Notes
