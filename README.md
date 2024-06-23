@@ -21,16 +21,11 @@ We welcome contributions from anyone interested, whether from their academic pur
 ## Generative AI Glossary ##
 To get started, check out our fantastic [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
 
-Reti neurali
-
-https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
-
-https://www.coursera.org/learn/machine-learning
 
 ## Neural Networks ##
 
-- [Visual Interactive Guide to Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
-- [Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning)
+1. [Visual Interactive Guide to Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+1. [Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning)
 
 
 ## Transformer ##
