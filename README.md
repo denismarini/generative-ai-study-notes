@@ -1,3 +1,6 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/denismarini/generative-ai-study-notes)
+
+
 ## Generative AI Study Notes
 
 Welcome to the **Generative AI Study Notes** repository, a curated collection of educational materials dedicated to exploring the field of generative artificial intelligence (AI). This repository serves as a comprehensive reference for enthusiasts, students, and professionals interested in learning about and experimenting with generative AI technologies.
