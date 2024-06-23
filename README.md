@@ -11,6 +11,13 @@
 </p>
 
 
+
+## Generative AI Study Notes
+
+Welcome to the **Generative AI Study Notes repository**! This is a meticulously organized collection of educational materials dedicated to exploring and deepening knowledge in the field of generative artificial intelligence (AI). As we study and research generative AI, we aim to gather and organize information deemed important for skill development, selecting competencies, sharing examples, and presenting experiment results. This repository is designed to assist anyone who wants to learn, delve deeper, and effectively apply generative AI technologies in a structured manner.
+
+We welcome contributions from anyone interested, whether from their academic pursuits, professional work, or personal passion. Please feel free to submit pull requests to share your insights and findings.
+
 ## Transformer ##
 
 1. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/?utm_campaign=Commit+%2337&utm_content=Commit+%2337&utm_medium=email_action&utm_source=customer.io)
@@ -19,10 +26,6 @@
 1. [Word Embedding Explained and Visualized - word2vec and wevi](https://www.youtube.com/watch?v=D-ekE-Wlcds)
 
 
-## Generative AI Study Notes
-
-
-Welcome to the **Generative AI Study Notes** repository, a curated collection of educational materials dedicated to exploring the field of generative artificial intelligence (AI). This repository serves as a comprehensive reference for enthusiasts, students, and professionals interested in learning about and experimenting with generative AI technologies.
 
 ### What You'll Find Here:
 
