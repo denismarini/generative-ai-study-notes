@@ -21,6 +21,12 @@ We welcome contributions from anyone interested, whether from their academic pur
 ## Generative AI Glossary ##
 To get started, check out our fantastic [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
 
+Reti neurali
+
+https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+
+https://www.coursera.org/learn/machine-learning
+
 ## Transformer ##
 
 1. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/?utm_campaign=Commit+%2337&utm_content=Commit+%2337&utm_medium=email_action&utm_source=customer.io)
@@ -30,7 +36,7 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 
 
 
-### What You'll Find Here:
+## What You'll Find Here: ##
 
 - **Articles and Publications**: A selection of academic papers and publications that delve into various aspects of generative AI, including algorithms, applications, and ethical considerations.
   
@@ -55,6 +61,17 @@ This repository encourages contributions! Whether you have additional resources 
 For questions, suggestions, or collaborations, please feel free to contact us directly through GitHub or via email at [denis.marini@gmail.com](mailto:denis.marini@gmail.com).
 
 Explore, learn, and advance your knowledge in generative AI with **Generative AI Study Notes**!
+
+Questo [documento/progetto/repository] include materiali distribuiti sotto la licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[Includere qui l'attribuzione specifica dell'opera e degli autori originali, se disponibile].
+
+## Attribution
+
+This repository includes links to materials distributed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+- Articles written by Jay Alammar and published on [https://jalammar.github.io](https://jalammar.github.io) are available under the CC BY-NC-SA 4.0 license.
+
 
 ## Author 🚶
 * Denis Marini
