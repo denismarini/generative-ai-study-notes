@@ -1,6 +1,8 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/denismarini/generative-ai-study-notes)
 ![GitHub Repo stars](https://img.shields.io/github/stars/denismarini/generative-ai-study-notes)
+![GitHub watchers](https://img.shields.io/github/watchers/denismarini/generative-ai-study-notes)
+
 
 
 
