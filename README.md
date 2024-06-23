@@ -19,7 +19,7 @@ Welcome to the **Generative AI Study Notes repository**! This is a meticulously 
 We welcome contributions from anyone interested, whether from their academic pursuits, professional work, or personal passion. Please feel free to submit pull requests to share your insights and findings.
 
 ## Generative AI Glossary ##
-To get started, check out our fantastic [Generative AI Glossary](link-to-glossary) for key terms and concepts.
+To get started, check out our fantastic [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
 
 ## Transformer ##
 
