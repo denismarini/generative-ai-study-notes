@@ -16,6 +16,10 @@
  <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="800"/>
 </p>
 
+1. [**Caude**](https://www.anthropic.com/claude)
+1. [**GPT**](https://openai.com/index/hello-gpt-4o/)
+1. [**Gemini**](https://gemini.google.com/app)
+
 ## Generative AI Study Notes
 
 Welcome to the **Generative AI Study Notes repository**! This is a meticulously organized collection of educational materials dedicated to exploring and deepening knowledge in the field of generative artificial intelligence (AI). As we study and research generative AI, we aim to gather and organize information deemed important for skill development, selecting competencies, sharing examples, and presenting experiment results. This repository is designed to assist anyone who wants to learn, delve deeper, and effectively apply generative AI technologies in a structured manner.
