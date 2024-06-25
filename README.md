@@ -2,15 +2,14 @@
 ![GitHub forks](https://img.shields.io/github/forks/denismarini/generative-ai-study-notes)
 ![GitHub watchers](https://img.shields.io/github/watchers/denismarini/generative-ai-study-notes)
 ![GitHub Repo stars](https://img.shields.io/github/stars/denismarini/generative-ai-study-notes)
-
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/denismarini/generative-ai-study-notes)
 
 
 <p align="center">
- <img src="gallery/umarell.png" width="120"/>
+ <img src="gallery/umarell.png" width="80"/>
 </p>
 
-## News ##
+# News #
 
 <p align="center">
  <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="800"/>
@@ -21,6 +20,11 @@
 1. [**Gemini**](https://gemini.google.com/app)
 
 ## Generative AI Study Notes
+
+<p align="center">
+ <img src="gallery/bot-student.jpeg" width="800"/>
+</p>
+
 
 Welcome to the **Generative AI Study Notes repository**! This is a meticulously organized collection of educational materials dedicated to exploring and deepening knowledge in the field of generative artificial intelligence (AI). As we study and research generative AI, we aim to gather and organize information deemed important for skill development, selecting competencies, sharing examples, and presenting experiment results. This repository is designed to assist anyone who wants to learn, delve deeper, and effectively apply generative AI technologies in a structured manner.
 
@@ -33,6 +37,11 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 ## Prompt Engineering ##
 
 1. [Prompt Engineering Guide](https://www.promptingguide.ai/introduction/basics)
+
+## API ##
+1. [Anthropic Clade API](https://www.anthropic.com/api)
+1. [Mistral AI API](https://docs.mistral.ai/api/)
+1. [OpenAI API](https://openai.com/api/)
 
 
 ## Neural Networks ##
