@@ -56,7 +56,8 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 1. [Word Embedding Explained and Visualized - word2vec and wevi](https://www.youtube.com/watch?v=D-ekE-Wlcds)
 1. [Google Colab Notebook: hello_t2t.ipynb](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)
 
-
+### LLM ###
+1. [LLM Bootcamp - Spring 2023](https://www.youtube.com/watch?v=twHxmU9OxDU&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ)
 
 
 ## What You'll Find Here: ##
