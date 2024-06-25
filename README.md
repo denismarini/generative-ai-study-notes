@@ -30,6 +30,10 @@ We welcome contributions from anyone interested, whether from their academic pur
 To get started, check out our fantastic [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
 
 
+## Prompt Engineering ##
+
+1. [Prompt Engineering Guide](https://www.promptingguide.ai/introduction/basics)
+
 
 ## Neural Networks ##
 
@@ -40,14 +44,15 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 1. [Visualizing Neural Machine Translation Mechanics of Seq2Seq Models with Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 
 
-
-## Transformer ##
+### Transformer ###
 
 1. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/?utm_campaign=Commit+%2337&utm_content=Commit+%2337&utm_medium=email_action&utm_source=customer.io)
 1. [Glossary of deep learning word embedding](https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca)
 1. [wevi: word embedding visual inspector](https://ronxin.github.io/wevi/)
 1. [Word Embedding Explained and Visualized - word2vec and wevi](https://www.youtube.com/watch?v=D-ekE-Wlcds)
 1. [Google Colab Notebook: hello_t2t.ipynb](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)
+
+
 
 
 ## What You'll Find Here: ##
