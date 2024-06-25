@@ -21,11 +21,20 @@ We welcome contributions from anyone interested, whether from their academic pur
 ## Generative AI Glossary ##
 To get started, check out our fantastic [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
 
+## News ##
+
+<p align="center">
+ <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="800"/>
+</p>
 
 ## Neural Networks ##
 
 1. [Visual Interactive Guide to Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
-1. [Machine Learning Course on Coursera](https://www.coursera.org/learn/machine-learning)
+
+1. [Feedforward Neural Networks: A Visual Interactive Guide](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
+
+1. [Visualizing Neural Machine Translation Mechanics of Seq2Seq Models with Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+
 
 
 ## Transformer ##
@@ -34,7 +43,7 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 1. [Glossary of deep learning word embedding](https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca)
 1. [wevi: word embedding visual inspector](https://ronxin.github.io/wevi/)
 1. [Word Embedding Explained and Visualized - word2vec and wevi](https://www.youtube.com/watch?v=D-ekE-Wlcds)
-
+1. [Google Colab Notebook: hello_t2t.ipynb](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)
 
 
 ## What You'll Find Here: ##

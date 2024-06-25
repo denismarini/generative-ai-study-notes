@@ -81,6 +81,12 @@
 - **Tokenization**
   - The process of converting text into smaller units (tokens), such as words or subwords, which can be processed by a language model.
 
+- **Context Windows**
+  - The context window of LLMs is the number of tokens the model can take as input when generating responses. For example, in GPT-3 the context window size is 2K (2000) and in GPT-4 it is a larger 32K. There is a trend and demand for increasingly larger context window sizes in LLMs. Larger context windows improve LLM performance and their usefulness across various applications.
+
+  - A technique used in various natural language processing algorithms where a limited portion of surrounding text (context window) is considered to analyze and understand the meaning of a word or phrase. This technique helps models capture local relationships between words, enhancing text comprehension.
+
+
 - **Beam Search**
   - A search algorithm used in sequence generation tasks to find the most likely sequence of tokens by exploring multiple possible sequences simultaneously.
 
