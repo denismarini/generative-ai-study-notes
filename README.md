@@ -10,7 +10,11 @@
  <img src="gallery/umarell.png" width="120"/>
 </p>
 
+## News ##
 
+<p align="center">
+ <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="800"/>
+</p>
 
 ## Generative AI Study Notes
 
@@ -21,11 +25,7 @@ We welcome contributions from anyone interested, whether from their academic pur
 ## Generative AI Glossary ##
 To get started, check out our fantastic [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
 
-## News ##
 
-<p align="center">
- <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="800"/>
-</p>
 
 ## Neural Networks ##
 
