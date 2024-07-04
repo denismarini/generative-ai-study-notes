@@ -1,8 +1,13 @@
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/denismarini/generative-ai-study-notes)
+[![GitHub license](https://img.shields.io/github/license/denismarini/generative-ai-study-notes.svg)](https://github.com/denismarini/generative-ai-study-notes/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/denismarini/generative-ai-study-notes.svg)](https://GitHub.com/denismarini/generative-ai-study-notes/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/denismarini/generative-ai-study-notes.svg)](https://GitHub.com/denismarini/generative-ai-study-notes/issues)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/denismarini/generative-ai-study-notes.svg)](https://GitHub.com/denismarini/generative-ai-study-notes/pulls)
+
 ![GitHub forks](https://img.shields.io/github/forks/denismarini/generative-ai-study-notes)
 ![GitHub watchers](https://img.shields.io/github/watchers/denismarini/generative-ai-study-notes)
 ![GitHub Repo stars](https://img.shields.io/github/stars/denismarini/generative-ai-study-notes)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/denismarini/generative-ai-study-notes)
 
 
 <p align="center">
