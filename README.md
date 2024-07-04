@@ -15,7 +15,7 @@
  <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="800"/>
 </p>
 
-1. [**Caude**](https://www.anthropic.com/claude)
+1. [**Claude**](https://www.anthropic.com/claude)
 1. [**GPT**](https://openai.com/index/hello-gpt-4o/)
 1. [**Gemini**](https://gemini.google.com/app)
 
@@ -34,7 +34,7 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 1. [Prompt Engineering Guide](https://www.promptingguide.ai/introduction/basics)
 
 ## API ##
-1. [Anthropic Clade API](https://www.anthropic.com/api)
+1. [Anthropic Claude API](https://www.anthropic.com/api)
 1. [Mistral AI API](https://docs.mistral.ai/api/)
 1. [OpenAI API](https://openai.com/api/)
 
