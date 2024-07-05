@@ -36,12 +36,19 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 
 ## Prompt Engineering ##
 
-1. [Prompt Engineering Guide](https://www.promptingguide.ai/introduction/basics)
+- [DAIR.AI Democratizing Artificial Intelligence Research, Education, and Technologies](https://dair.ai/)
+- [Learn prompting](https://learnprompting.org/)
+- [OpenAI prompt engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
+- [Anthropic prompt engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+- [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+- [Prompt Engineering 201: Advanced methods and toolkits](https://amatria.in/blog/prompt201)
 
-## API ##
-1. [Anthropic Claude API](https://www.anthropic.com/api)
+
+## API & Models##
+1. [Anthropic Clade API](https://www.anthropic.com/api)
 1. [Mistral AI API](https://docs.mistral.ai/api/)
 1. [OpenAI API](https://openai.com/api/)
+1. [Cohere API](https://docs.cohere.com/)
 
 
 ## Neural Networks ##
@@ -64,6 +71,20 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 ### LLM ###
 1. [LLM Bootcamp - Spring 2023](https://www.youtube.com/watch?v=twHxmU9OxDU&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ)
 
+2. [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html?utm_campaign=Commit+%2337&utm_content=Commit+%2337&utm_medium=email_action&utm_source=customer.io)
+
+### Training ###
+
+- [AskFSDL](https://github.com/the-full-stack/ask-fsdl) create an AI app
+
+## Useful link ##
+
+- Microsoft Generative AI for Beginners[Generative-ai-for-beginners](https://github.com/denismarini/generative-ai-for-beginners/tree/main)
+
+
+
+## Useful tools ##
+- [Google colab](https://colab.research.google.com/) Cloud-based platform for running Jupyter notebooks with access to powerful computing resources like GPUs. You can use Google Colab to develop your first MVP app.
 
 ## What You'll Find Here: ##
 
