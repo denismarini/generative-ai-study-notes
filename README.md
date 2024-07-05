@@ -43,7 +43,7 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 - [Prompt Engineering 201: Advanced methods and toolkits](https://amatria.in/blog/prompt201)
 
 
-## API & Models##
+## API & Models ##
 1. [Anthropic Clade API](https://www.anthropic.com/api)
 1. [Mistral AI API](https://docs.mistral.ai/api/)
 1. [OpenAI API](https://openai.com/api/)
