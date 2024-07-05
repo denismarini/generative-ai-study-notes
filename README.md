@@ -35,8 +35,7 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 
 
 ## Prompt Engineering ##
-
-- [DAIR.AI Democratizing Artificial Intelligence Research, Education, and Technologies](https://dair.ai/)
+- [Prompt engineering guide](https://www.promptingguide.ai/)
 - [Learn prompting](https://learnprompting.org/)
 - [OpenAI prompt engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
 - [Anthropic prompt engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
@@ -78,8 +77,9 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 - [AskFSDL](https://github.com/the-full-stack/ask-fsdl) create an AI app
 
 ## Useful link ##
+- [DAIR.AI Democratizing Artificial Intelligence Research, Education, and Technologies](https://dair.ai/)
+- [Microsoft Generative AI for Beginners](https://github.com/denismarini/generative-ai-for-beginners/tree/main)
 
-- Microsoft Generative AI for Beginners[Generative-ai-for-beginners](https://github.com/denismarini/generative-ai-for-beginners/tree/main)
 
 
 
