@@ -21,14 +21,16 @@
 1. [**Gemini**](https://gemini.google.com/app)
 
 
-# Welcome to the Generative AI Study Notes Repository! <p align="center"> 
-</p>
+# Welcome to the Generative AI Study Notes Repository! 
 
-<img src="gallery/bot-student.jpeg" align="left" width="300" height="300"/> This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
+<img src="gallery/bot-student.jpeg" align="left" width="300" height="300"/> 
+This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
 
 This repository is helpful for anyone who wants to learn, dive deeper, and effectively use generative AI technologies in a structured way. It covers a wide range of topics, from high-level concepts that are easy for beginners and quickly applicable, like prompting, to technical fundamentals like neural networking.
 
-Whether you are a beginner or an experienced professional, this repository aims to provide valuable resources to support your study in the world of generative AI and to share your study materials with others.
+Whether you are a beginner or an experienced professional, this repository aims to provide valuable resources to support your study in the world of generative AI and to share your study materials with others
+
+---
 
 # From high-level concepts... to technical fundamentals <img src="gallery/umarell.png" align="center" width="80" height="80"/>
 
@@ -84,7 +86,7 @@ To get started, check out the [Generative AI Glossary](doc/Generative%20AI%20Glo
 ### Laws ###
 [WikiAiAct - il primo wiki italiano sull'Artificial Intelligence Act](https://www.wikiaiact.it/wiki/Pagina_principale)
 
-
+---
 
 ## Useful link ##
 - [DAIR.AI Democratizing Artificial Intelligence Research, Education, and Technologies](https://dair.ai/)
@@ -98,38 +100,16 @@ To get started, check out the [Generative AI Glossary](doc/Generative%20AI%20Glo
 - [OpenAI tokenizer](https://platform.openai.com/tokenizer)
 
 
-## What You'll Find Here: ##
-
-- **Articles and Publications**: A selection of academic papers and publications that delve into various aspects of generative AI, including algorithms, applications, and ethical considerations.
-  
-- **Books and eBooks**: References to foundational texts and in-depth books available in both digital and print formats, offering deep insights into generative AI concepts and methodologies.
-  
-- **Videos and Tutorials**: Links to video tutorials, online courses, and lectures covering key topics such as generative models (GANs, VAEs), natural language processing (NLP), computer vision, and more.
-  
-- **Source Code and Examples**: Repositories containing code samples, scripts, and practical implementations to help you experiment with and understand how generative AI models work.
-  
-- **Datasets and Training Resources**: Lists of datasets suitable for training and evaluating generative AI models across different domains, from image generation to text generation.
-  
-- **Tools and Libraries**: Information on frameworks, tools, and libraries essential for developing and deploying generative AI solutions, including TensorFlow, PyTorch, and more.
-  
-- **Events and Conferences**: Updates on upcoming conferences, workshops, and events in the field of generative AI, providing opportunities for networking and further learning.
-
 ### How to Use and Contribute:
 
 This repository encourages contributions! Whether you have additional resources to share, suggestions for improvement, or feedback on existing content, you can participate by opening a pull request or creating an issue.
 
 ### Contact Information:
 
-For questions, suggestions, or collaborations, please feel free to contact us directly through GitHub or via email at [denis.marini@gmail.com](mailto:denis.marini@gmail.com).
+For questions, suggestions, or collaborations, please feel free to contact us directly through GitHub
 
-Explore, learn, and advance your knowledge in generative AI with **Generative AI Study Notes**!
-
-Questo [documento/progetto/repository] include materiali distribuiti sotto la licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-[Includere qui l'attribuzione specifica dell'opera e degli autori originali, se disponibile].
 
 ## Attribution
-
 This repository includes links to materials distributed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 - Articles written by Jay Alammar and published on [https://jalammar.github.io](https://jalammar.github.io) are available under the CC BY-NC-SA 4.0 license.
