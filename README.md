@@ -20,14 +20,18 @@
 1. [**GPT**](https://openai.com/index/hello-gpt-4o/)
 1. [**Gemini**](https://gemini.google.com/app)
 
-## Generative AI Study Notes
-# Welcome to the Generative AI Study Notes Repository!
 
-This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
+## Welcome to the Generative AI Study Notes Repository! <p align="center"> 
+</p>
+
+
+<img src="gallery/bot-student.jpeg" width="100"/> This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
 
 This repository is helpful for anyone who wants to learn, dive deeper, and effectively use generative AI technologies in a structured way. It covers a wide range of topics, from high-level concepts that are easy for beginners and quickly applicable, like prompting, to technical fundamentals like neural networking.
 
 Whether you are a beginner or an experienced professional, this repository aims to provide valuable resources to support your study in the world of generative AI and to share your study materials with others.
+
+
 
 
 ## Generative AI Glossary ##
@@ -85,9 +89,6 @@ To get started, check out the [Generative AI Glossary](doc/Generative%20AI%20Glo
 ### Laws ###
 [WikiAiAct - il primo wiki italiano sull'Artificial Intelligence Act](https://www.wikiaiact.it/wiki/Pagina_principale)
 
-<p align="center">
- <img src="gallery/bot-student.jpeg" width="500"/>
-</p>
 
 
 ## Useful link ##
