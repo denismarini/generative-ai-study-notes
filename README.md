@@ -21,9 +21,8 @@
 1. [**Gemini**](https://gemini.google.com/app)
 
 
-## Welcome to the Generative AI Study Notes Repository! <p align="center"> 
+# Welcome to the Generative AI Study Notes Repository! <p align="center"> 
 </p>
-
 
 <img src="gallery/bot-student.jpeg" align="left" width="300" height="300"/> This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
 
@@ -31,15 +30,11 @@ This repository is helpful for anyone who wants to learn, dive deeper, and effec
 
 Whether you are a beginner or an experienced professional, this repository aims to provide valuable resources to support your study in the world of generative AI and to share your study materials with others.
 
+# From high-level concepts... to technical fundamentals <img src="gallery/umarell.png" align="center" width="80" height="80"/>
 
 
-
-## Generative AI Glossary ##
 To get started, check out the [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
 
-<p align="center">
- <img src="gallery/umarell.png" width="80"/>
-</p>
 
 ## Prompt Engineering ##
 - [Prompt engineering guide](https://www.promptingguide.ai/)
