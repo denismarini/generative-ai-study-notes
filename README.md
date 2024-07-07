@@ -10,11 +10,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/denismarini/generative-ai-study-notes)
 
 
-<p align="center">
- <img src="gallery/bot-student.jpeg" width="400"/>
-</p>
-
-
 # News #
 
 <p align="center">
@@ -89,6 +84,11 @@ To get started, check out the [Generative AI Glossary](doc/Generative%20AI%20Glo
 
 ### Laws ###
 [WikiAiAct - il primo wiki italiano sull'Artificial Intelligence Act](https://www.wikiaiact.it/wiki/Pagina_principale)
+
+<p align="center">
+ <img src="gallery/bot-student.jpeg" width="500"/>
+</p>
+
 
 ## Useful link ##
 - [DAIR.AI Democratizing Artificial Intelligence Research, Education, and Technologies](https://dair.ai/)
