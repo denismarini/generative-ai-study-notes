@@ -25,7 +25,7 @@
 </p>
 
 
-<img src="gallery/bot-student.jpeg" width="100"/> This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
+<img src="gallery/bot-student.jpeg" align="left" width="300" height="300"/> This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
 
 This repository is helpful for anyone who wants to learn, dive deeper, and effectively use generative AI technologies in a structured way. It covers a wide range of topics, from high-level concepts that are easy for beginners and quickly applicable, like prompting, to technical fundamentals like neural networking.
 
