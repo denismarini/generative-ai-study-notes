@@ -26,13 +26,17 @@
 1. [**Gemini**](https://gemini.google.com/app)
 
 ## Generative AI Study Notes
+# Welcome to the Generative AI Study Notes Repository!
 
-Welcome to the **Generative AI Study Notes repository**! This is a meticulously organized collection of educational materials dedicated to exploring and deepening knowledge in the field of generative artificial intelligence (AI). As we study and research generative AI, we aim to gather and organize information deemed important for skill development, selecting competencies, sharing examples, and presenting experiment results. This repository is designed to assist anyone who wants to learn, delve deeper, and effectively apply generative AI technologies in a structured manner.
+This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
 
-We welcome contributions from anyone interested, whether from their academic pursuits, professional work, or personal passion. Please feel free to submit pull requests to share your insights and findings.
+This repository is helpful for anyone who wants to learn, dive deeper, and effectively use generative AI technologies in a structured way. It covers a wide range of topics, from high-level concepts that are easy for beginners and quickly applicable, like prompting, to technical fundamentals like neural networking.
+
+Whether you are a beginner or an experienced professional, this repository aims to provide valuable resources to support your study in the world of generative AI and to share your study materials with others.
+
 
 ## Generative AI Glossary ##
-To get started, check out our fantastic [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
+To get started, check out the [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
 
 <p align="center">
  <img src="gallery/umarell.png" width="80"/>
