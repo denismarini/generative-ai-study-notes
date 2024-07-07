@@ -11,7 +11,7 @@
 
 
 <p align="center">
- <img src="gallery/bot-student.jpeg" width="2000"/>
+ <img src="gallery/bot-student.jpeg" width="400"/>
 </p>
 
 
