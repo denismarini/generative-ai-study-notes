@@ -11,8 +11,9 @@
 
 
 <p align="center">
- <img src="gallery/umarell.png" width="80"/>
+ <img src="gallery/bot-student.jpeg" width="2000"/>
 </p>
+
 
 # News #
 
@@ -33,21 +34,27 @@ We welcome contributions from anyone interested, whether from their academic pur
 ## Generative AI Glossary ##
 To get started, check out our fantastic [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
 
+<p align="center">
+ <img src="gallery/umarell.png" width="80"/>
+</p>
 
 ## Prompt Engineering ##
 - [Prompt engineering guide](https://www.promptingguide.ai/)
 - [Learn prompting](https://learnprompting.org/)
-- [OpenAI prompt engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
+- [OpenAI prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering/prompt-engineering)
+- [Best practices for prompt engineering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
 - [Anthropic prompt engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [Prompt Engineering 201: Advanced methods and toolkits](https://amatria.in/blog/prompt201)
 
 
 ## API & Models ##
-1. [Anthropic Clade API](https://www.anthropic.com/api)
-1. [Mistral AI API](https://docs.mistral.ai/api/)
-1. [OpenAI API](https://openai.com/api/)
-1. [Cohere API](https://docs.cohere.com/)
+- [OpenAI API](https://openai.com/api/)
+    - [How to count tokens](https://cookbook.openai.com/examples/how_to_count_tokens_with_tiktoken)
+    - [How to make your completions outputs consistent with the new seed parameter](https://cookbook.openai.com/examples/reproducible_outputs_with_the_seed_parameter)
+- [Anthropic Clade API](https://www.anthropic.com/api)
+- [Mistral AI API](https://docs.mistral.ai/api/)
+- [Cohere API](https://docs.cohere.com/)
 
 
 ## Neural Networks ##
@@ -76,15 +83,20 @@ To get started, check out our fantastic [Generative AI Glossary](doc/Generative%
 
 - [AskFSDL](https://github.com/the-full-stack/ask-fsdl) create an AI app
 
+### Laws ###
+[WikiAiAct - il primo wiki italiano sull'Artificial Intelligence Act](https://www.wikiaiact.it/wiki/Pagina_principale)
+
 ## Useful link ##
 - [DAIR.AI Democratizing Artificial Intelligence Research, Education, and Technologies](https://dair.ai/)
 - [Microsoft Generative AI for Beginners](https://github.com/denismarini/generative-ai-for-beginners/tree/main)
-
-
+- [Openai cookbook](https://cookbook.openai.com/)
 
 
 ## Useful tools ##
 - [Google colab](https://colab.research.google.com/) Cloud-based platform for running Jupyter notebooks with access to powerful computing resources like GPUs. You can use Google Colab to develop your first MVP app.
+- [Tiktoken](https://github.com/openai/tiktoken) is a fast BPE tokeniser for use with OpenAI's models. 
+- [OpenAI tokenizer](https://platform.openai.com/tokenizer)
+
 
 ## What You'll Find Here: ##
 
