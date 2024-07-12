@@ -14,17 +14,6 @@
 </p>
 
 
-## News 
-
-<p align="center">
- <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="400"/>
-</p>
-
-1. [**Claude**](https://www.anthropic.com/claude)
-1. [**GPT**](https://openai.com/index/hello-gpt-4o/)
-1. [**Gemini**](https://gemini.google.com/app)
-
-
 ## Welcome to the Generative AI Study Notes Repository! 
 
 <img src="gallery/bot-student.jpeg" align="left" width="300" height="300"/> 
@@ -34,15 +23,27 @@ This repository is helpful for anyone who wants to learn, dive deeper, and effec
 
 Whether you are a beginner or an experienced professional, this repository aims to provide valuable resources to support your study in the world of generative AI and to share your study materials with others
 
----
+# News 
 
-## From high-level concepts... to technical fundamentals <img src="gallery/umarell.png" align="center" width="80" height="80"/>
+<p align="center">
+ <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="800"/> 
+</p>
 
+1. [**Claude**](https://www.anthropic.com/claude)
+1. [**GPT**](https://openai.com/index/hello-gpt-4o/)
+1. [**Gemini**](https://gemini.google.com/app)
+
+
+# From high-level concepts... to technical fundamentals 
+
+<p align="center">
+ <img src="gallery/umarell.png"  width="80" height="80"/>
+</p>
 
 To get started, check out the [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
 
 
-## Prompt Engineering ##
+# Prompt Engineering ##
 - [Prompt engineering guide](https://www.promptingguide.ai/)
 - [Learn prompting](https://learnprompting.org/)
 - [OpenAI prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering/prompt-engineering)
