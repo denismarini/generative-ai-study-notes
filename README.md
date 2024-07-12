@@ -14,10 +14,10 @@
 </p>
 
 
-# News #
+## News 
 
 <p align="center">
- <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="800"/>
+ <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="400"/>
 </p>
 
 1. [**Claude**](https://www.anthropic.com/claude)
@@ -25,7 +25,7 @@
 1. [**Gemini**](https://gemini.google.com/app)
 
 
-# Welcome to the Generative AI Study Notes Repository! 
+## Welcome to the Generative AI Study Notes Repository! 
 
 <img src="gallery/bot-student.jpeg" align="left" width="300" height="300"/> 
 This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
@@ -36,7 +36,7 @@ Whether you are a beginner or an experienced professional, this repository aims 
 
 ---
 
-# From high-level concepts... to technical fundamentals <img src="gallery/umarell.png" align="center" width="80" height="80"/>
+## From high-level concepts... to technical fundamentals <img src="gallery/umarell.png" align="center" width="80" height="80"/>
 
 
 To get started, check out the [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
