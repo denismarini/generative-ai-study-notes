@@ -64,6 +64,10 @@
 - **Long Short-Term Memory (LSTM)**
   - A type of RNN designed to better capture long-range dependencies by using special gating mechanisms to control the flow of information.
 
+- **Retrieval-Augmented Generation (RAG)**
+  - RAG is a neural network model that enhances text generation by incorporating relevant information from external sources. It combines a **retriever** for fetching information and a **generator** for producing responses using Transformer-based models (e.g., GPT, BERT). Ideal for tasks like question answering and dialogue systems, RAG improves accuracy by accessing up-to-date or specialized information not contained within the model's training data.
+
+
 ## Techniques and Mechanisms
 
 - **Attention Mechanism**
@@ -181,3 +185,4 @@
 
 - **Reinforcement Learning (RL)**
   - A type of machine learning where an agent learns to make decisions by interacting with an environment and receiving feedback in the form of rewards or penalties.
+
