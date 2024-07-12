@@ -9,6 +9,10 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/denismarini/generative-ai-study-notes)
 ![GitHub Repo stars](https://img.shields.io/github/stars/denismarini/generative-ai-study-notes)
 
+<p align="center">
+ <img src="gallery/banner.png" align="center" /> 
+</p>
+
 
 # News #
 
