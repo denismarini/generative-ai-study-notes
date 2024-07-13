@@ -30,7 +30,7 @@ Whether you are a beginner or an experienced professional, this repository aims 
 1. [**Gemini**](https://gemini.google.com/app)
 
 
-# From high-level concepts... to technical fundamentals<img src="gallery/umarell.png"  align="right" width="40" height="40"/>
+# <img src="gallery/umarell.png"  align="left" width="40" height="40"/> From high-level concepts... to technical fundamentals
 
 
 [<img src="gallery/to_start_training_icon.png" align="left"  width="30" height="30" style="margin-right: 10px;" />To get started, check out the Generative AI Glossary for key terms and concepts](doc/Generative%20AI%20Glossary.md) 
