@@ -19,7 +19,7 @@ This repository is helpful for anyone who wants to learn, dive deeper, and effec
 
 Whether you are a beginner or an experienced professional, this repository aims to provide valuable resources to support your study in the world of generative AI and to share your study materials with others
 
-## News ##
+# <img src="gallery/umarell.png"  align="right" width="40" height="40"/> News ##
 
 <p align="center">
  <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="800"/> 
@@ -30,7 +30,7 @@ Whether you are a beginner or an experienced professional, this repository aims 
 1. [**Gemini**](https://gemini.google.com/app)
 
 
-# <img src="gallery/umarell.png"  align="left" width="40" height="40"/> From high-level concepts... to technical fundamentals
+# From high-level concepts... to technical fundamentals
 
 
 [<img src="gallery/to_start_training_icon.png" align="left"  width="30" height="30" style="margin-right: 10px;" />To get started, check out the Generative AI Glossary for key terms and concepts](doc/Generative%20AI%20Glossary.md) 
