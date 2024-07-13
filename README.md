@@ -11,9 +11,7 @@
 
 ## Welcome to the Generative AI Study Notes Repository! 
 
-<p align="center">
- <img src="gallery/banner.png"  /> 
-</p>
+[<img src="gallery/banner.png"/>](https://festive-chestnut-92c.notion.site/Generative-AI-Study-Notes-0f6a0129164645c5a862e6eebb2e2986)
 
 This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
 
