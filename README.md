@@ -12,7 +12,7 @@
 ## Welcome to the Generative AI Study Notes Repository! 
 
 <p align="center">
- <img src="gallery/banner.png" align="center" /> 
+ <img src="gallery/banner.png"  /> 
 </p>
 
 This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
@@ -38,7 +38,11 @@ Whether you are a beginner or an experienced professional, this repository aims 
  <img src="gallery/umarell.png"  width="80" height="80"/>
 </p>
 
-To get started, check out the [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
+[<img src="gallery/to_start_training_icon.png" align="left"  width="30" height="30" style="margin-right: 10px;" />To get started, check out the Generative AI Glossary for key terms and concepts](doc/Generative%20AI%20Glossary.md) 
+
+[<img src="gallery/path_training_icon.png" align="left"  width="30" height="30" style="margin-right: 10px;"/>To enhance your training, review this proposal on a training path available on Notion](https://festive-chestnut-92c.notion.site/Generative-AI-Study-Notes-0f6a0129164645c5a862e6eebb2e2986)
+
+[<img src="gallery/coding_training_icon.png" align="left"  width="30" height="30" style="margin-right: 10px;"/>To improve your coding skills, explore this proposal on Colab code](https://colab.research.google.com/drive/1BL0GA5FBBnYcx_WUUco6kgiDU7vtWQnC?usp=sharing)
 
 
 ## Prompt Engineering ##
