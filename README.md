@@ -9,14 +9,12 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/denismarini/generative-ai-study-notes)
 ![GitHub Repo stars](https://img.shields.io/github/stars/denismarini/generative-ai-study-notes)
 
+## Welcome to the Generative AI Study Notes Repository! 
+
 <p align="center">
  <img src="gallery/banner.png" align="center" /> 
 </p>
 
-
-## Welcome to the Generative AI Study Notes Repository! 
-
-<img src="gallery/bot-student.jpeg" align="left" width="300" height="300"/> 
 This repository is a collection of educational materials gathered while studying generative artificial intelligence (AI). In a field that is always changing like generative AI, staying updated with key information is crucial for building skills, choosing competencies, sharing examples, and showing experimental results.
 
 This repository is helpful for anyone who wants to learn, dive deeper, and effectively use generative AI technologies in a structured way. It covers a wide range of topics, from high-level concepts that are easy for beginners and quickly applicable, like prompting, to technical fundamentals like neural networking.
