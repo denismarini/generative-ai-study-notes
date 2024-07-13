@@ -21,7 +21,7 @@ This repository is helpful for anyone who wants to learn, dive deeper, and effec
 
 Whether you are a beginner or an experienced professional, this repository aims to provide valuable resources to support your study in the world of generative AI and to share your study materials with others
 
-# News 
+## News ##
 
 <p align="center">
  <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="800"/> 
@@ -41,7 +41,7 @@ Whether you are a beginner or an experienced professional, this repository aims 
 To get started, check out the [Generative AI Glossary](doc/Generative%20AI%20Glossary.md) for key terms and concepts.
 
 
-# Prompt Engineering ##
+## Prompt Engineering ##
 - [Prompt engineering guide](https://www.promptingguide.ai/)
 - [Learn prompting](https://learnprompting.org/)
 - [OpenAI prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering/prompt-engineering)
