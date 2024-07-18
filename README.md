@@ -45,7 +45,7 @@ Game-Changer: Indica che il contenuto ha il potenziale per cambiare il modo di p
 # Game-Changer
 - [Meta’s Bizarre AI Infrastructure Choice Costs Them $100s of Millions](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?utm_campaign=Newsletter%2B%2352&utm_content=Newsletter%2B%2349&utm_medium=email_action&utm_source=customer.io) In March 2023, the open-source community gained access to Meta's LLaMA model, a powerful foundation model. Despite lacking advanced tuning and RLHF, its potential was quickly recognized, leading to rapid innovation. Within a month, significant advancements were made, including instruction tuning, quality improvements, and multimodality. Crucially, the scaling problem was solved, allowing individuals to experiment with the model using just a powerful laptop, dramatically lowering the barrier to entry for training and experimentation.
 
-- [The Rise of the AI Engineer](https://www.latent.space?utm_source=navbar&utm_medium=web)
+- [The Rise of the AI Engineer](https://www.latent.space?utm_source=navbar&utm_medium=web) There'll probably be way more AI Engineers than ML or LLM engineers. You can totally rock this job without needing any special training
 
 ## Prompt Engineering ##
 - [Prompt engineering guide](https://www.promptingguide.ai/)
