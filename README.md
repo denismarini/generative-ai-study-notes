@@ -107,7 +107,8 @@ This repository encourages contributions! Whether you have additional resources 
 
 ## Contact Information ##
 
-For questions, suggestions, or collaborations, please feel free to contact us directly through GitHub
+For questions, suggestions, or collaborations, please feel free to contact us directly through GitHub or [Discord](https://discord.gg/wjXWRUHc)
+
 
 
 ## Attribution ##
