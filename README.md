@@ -19,15 +19,17 @@ This repository is helpful for anyone who wants to learn, dive deeper, and effec
 
 Whether you are a beginner or an experienced professional, this repository aims to provide valuable resources to support your study in the world of generative AI and to share your study materials with others
 
-# <img src="gallery/umarell.png"  align="right" width="40" height="40"/> News ##
+# <img src="gallery/umarell.png"  align="right" width="40" height="40"/> LLM Leaderboard ## 
 
-<p align="center">
- <img src="gallery/Al-model-release -capabilities-timeline.jpg" width="800"/> 
-</p>
 
-1. [**Claude**](https://www.anthropic.com/claude)
-1. [**GPT**](https://openai.com/index/hello-gpt-4o/)
-1. [**Gemini**](https://gemini.google.com/app)
+🏆 [LMSYS Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard) is a crowdsourced open platform for LLM evals. They collected over 1,000,000 human pairwise comparisons to rank LLMs with the Bradley-Terry model and display the model ratings in Elo-scale. 
+
+
+<!-- Note: Must-Read: Questo è un titolo conciso e diretto che cattura subito l'attenzione e comunica chiaramente l'importanza del contenuto.
+Don't Miss Out: Crea un senso di urgenza e spinge i lettori a cliccare per scoprire di cosa si tratta.
+Essential Reading: Indica che il contenuto è fondamentale e che i lettori dovrebbero leggerlo per essere informati.
+Deep Dive: Suggerisce che l'articolo offre un'analisi approfondita e dettagliata dell'argomento.
+Game-Changer: Indica che il contenuto ha il potenziale per cambiare il modo di pensare o di agire dei lettori.-->
 
 
 # From high-level concepts... to technical fundamentals
@@ -39,6 +41,11 @@ Whether you are a beginner or an experienced professional, this repository aims 
 
 [<img src="gallery/coding_training_icon.png" align="left"  width="30" height="30" style="margin-right: 10px;"/>To improve your coding skills, explore this proposal on Colab code](https://colab.research.google.com/drive/1BL0GA5FBBnYcx_WUUco6kgiDU7vtWQnC?usp=sharing)
 
+
+# Game-Changer
+- [Meta’s Bizarre AI Infrastructure Choice Costs Them $100s of Millions](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?utm_campaign=Newsletter%2B%2352&utm_content=Newsletter%2B%2349&utm_medium=email_action&utm_source=customer.io) In March 2023, the open-source community gained access to Meta's LLaMA model, a powerful foundation model. Despite lacking advanced tuning and RLHF, its potential was quickly recognized, leading to rapid innovation. Within a month, significant advancements were made, including instruction tuning, quality improvements, and multimodality. Crucially, the scaling problem was solved, allowing individuals to experiment with the model using just a powerful laptop, dramatically lowering the barrier to entry for training and experimentation.
+
+- [The Rise of the AI Engineer](https://www.latent.space?utm_source=navbar&utm_medium=web)
 
 ## Prompt Engineering ##
 - [Prompt engineering guide](https://www.promptingguide.ai/)
