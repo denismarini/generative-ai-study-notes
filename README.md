@@ -25,8 +25,7 @@ Whether you are a beginner or an experienced professional, this repository aims 
 🏆 [LMSYS Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard) is a crowdsourced open platform for LLM evals. They collected over 1,000,000 human pairwise comparisons to rank LLMs with the Bradley-Terry model and display the model ratings in Elo-scale. 
 
 
-
-# Game-Changer
+# Game-changer
 - **JUNE, 2023** [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer) “In numbers, there's probably going to be significantly more AI Engineers than there are ML engineers / LLM engineers. One can be quite successful in this role without ever training anything.” - Andrej Karpathy
 
 <img src="gallery/the_rise_of_the_AI_Engineer.png"  /> 
