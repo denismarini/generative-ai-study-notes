@@ -19,6 +19,8 @@ This repository is helpful for anyone who wants to learn, dive deeper, and effec
 
 Whether you are a beginner or an experienced professional, this repository aims to provide valuable resources to support your study in the world of generative AI and to share your study materials with others
 
+[<img src="gallery/path_training_icon.png" align="left"  width="30" height="30" style="margin-right: 10px;"/>Learning path board](https://festive-chestnut-92c.notion.site/Generative-AI-Study-Notes-0f6a0129164645c5a862e6eebb2e2986)
+
 # <img src="gallery/umarell.png"  align="right" width="40" height="40"/> LLM Leaderboard ## 
 
 
@@ -32,21 +34,21 @@ Whether you are a beginner or an experienced professional, this repository aims 
 
 - **MAY, 2023** [Meta’s Bizarre AI Infrastructure Choice Costs Them $100s of Millions](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?utm_campaign=Newsletter%2B%2352&utm_content=Newsletter%2B%2349&utm_medium=email_action&utm_source=customer.io) In March 2023, the open-source community gained access to Meta's LLaMA model, a powerful foundation model. Despite lacking advanced tuning and RLHF, its potential was quickly recognized, leading to rapid innovation. Within a month, significant advancements were made, including instruction tuning, quality improvements, and multimodality. Crucially, the scaling problem was solved, allowing individuals to experiment with the model using just a powerful laptop, dramatically lowering the barrier to entry for training and experimentation.
 
-| Date               | Event                                                    | Description                                                                                                                                                                                                                                                           |
-|--------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Feb 24, 2023**   | **LLaMA is Launched**                                    | Meta launches LLaMA, open sourcing the code but not the weights. LLaMA is not instruction or conversation tuned and is available in 7B, 13B, 33B, and 65B parameters.                                                                                                 |
-| **March 3, 2023**  | **The Inevitable Happens**                               | Within a week, LLaMA is leaked to the public. Although existing licenses prevent commercial use, anyone can experiment with it, leading to rapid innovations.                                                                                                         |
-| **March 12, 2023** | **Language Models on a Toaster**                         | Artem Andreenko gets the model working on a Raspberry Pi. Despite running slowly due to memory paging issues, this initiates efforts for model minification.                                                                                                          |
-| **March 13, 2023** | **Fine Tuning on a Laptop**                              | Stanford releases Alpaca, adding instruction tuning to LLaMA. Eric Wang's alpaca-lora repo enables low-rank fine-tuning on a single RTX 4090, making fine-tuning accessible and sparking numerous low-budget projects.                                               |
-| **March 18, 2023** | **Now It’s Fast**                                        | Georgi Gerganov uses 4-bit quantization to run LLaMA on a MacBook CPU, creating the first practical "no GPU" solution.                                                                                                                                                |
-| **March 19, 2023** | **A 13B Model Achieves “Parity” with Bard**              | A cross-university team releases Vicuna, evaluated using GPT-4-powered comparisons. The model, trained using ChatGPT dialogues, is significantly better than earlier versions. Training Cost: $300.                                                                  |
-| **March 25, 2023** | **Choose Your Own Model**                                | Nomic creates GPT4All, an ecosystem of models including Vicuna. Training Cost: $100.                                                                                                                                                                                  |
-| **March 28, 2023** | **Open Source GPT-3**                                    | Cerebras trains the GPT-3 architecture using optimal compute schedules and scaling, outperforming existing GPT-3 clones. This is the first confirmed use of μ-parameterization in the wild, making the community no longer dependent on LLaMA.                        |
-| **March 28, 2023** | **Multimodal Training in One Hour**                      | LLaMA-Adapter introduces instruction tuning and multimodality with just 1.2M learnable parameters in one hour of training, achieving a new SOTA on multimodal ScienceQA.                                                                                               |
-| **April 3, 2023**  | **Real Humans Can’t Tell the Difference**                | Berkeley launches Koala, a dialogue model trained using freely available data. Human preferences between Koala and ChatGPT show no preference more than 50% of the time. Training Cost: $100.                                                                         |
-| **April 15, 2023** | **Open Source RLHF at ChatGPT Levels**                   | Open Assistant launches a model and dataset for Alignment via RLHF, closely matching ChatGPT in human preference (48.3% vs. 51.7%). They demonstrate the dataset's applicability to Pythia-12B, making RLHF accessible for small experimenters.                           |
+| Date | Event | Key Points |
+|---|---|---|
+| Feb 24, 2023 | LLaMA Launched | Meta releases LLaMA, open-sourcing code but not weights. Not instruction or conversation tuned. |
+| Mar 3, 2023 | LLaMA Leaked | LLaMA leaked to public. Increased experimentation due to open access. |
+| Mar 12, 2023 | LLaMA on Raspberry Pi | Artem Andreenko runs LLaMA on Raspberry Pi, initiating minification efforts. |
+| Mar 13, 2023 | Alpaca Released | Stanford releases Alpaca, adding instruction tuning to LLaMA. Eric Wang's alpaca-lora repo enables low-cost fine-tuning. |
+| Mar 18, 2023 | LLaMA on MacBook CPU | Georgi Gerganov runs LLaMA on MacBook CPU using 4-bit quantization. |
+| Mar 19, 2023 | Vicuna Released | Cross-university collaboration releases Vicuna, claiming "parity" with Bard. Training cost: $300. |
+| Mar 25, 2023 | GPT4All Released | Nomic creates GPT4All, an ecosystem for various models including Vicuna. Training cost: $100. |
+| Mar 28, 2023 | Open Source GPT-3 | Cerebras trains GPT-3 architecture using optimal compute schedule and μ-parameterization. |
+| Mar 28, 2023 | LLaMA-Adapter | Introduces instruction tuning and multimodality in one hour of training using PEFT. |
+| Apr 3, 2023 | Koala Released | Berkeley launches Koala, demonstrating human preference close to ChatGPT. Training cost: $100. |
+| Apr 15, 2023 | Open Assistant | Launches model and dataset for Alignment via RLHF, achieving results close to ChatGPT. |
 
-<img src="gallery/timeline_of_key_development_ in_open-source_language_models .png"  /> 
+<img src="gallery/timeline_LM_development_open_sourcing.png"  /> 
 
 
 # From high-level concepts... to technical fundamentals
