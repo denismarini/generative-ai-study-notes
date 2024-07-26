@@ -1,6 +1,6 @@
 # Generative AI Glossary
 <p align="center">
-<img src="../gallery/glossary_word_cloud.png"  height="300"/>
+<img src="../gallery/glossary_word_cloud.png"  height="400"/>
 </p>
 ## General Concepts
 
