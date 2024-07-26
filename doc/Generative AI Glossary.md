@@ -1,5 +1,7 @@
 # Generative AI Glossary
 
+<img src="../gallery/glossary_word_cloud.png"/>
+
 ## General Concepts
 
 | **Termine**                 | **Definizione**                                                                                                                                                                                                 |
