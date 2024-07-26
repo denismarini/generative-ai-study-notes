@@ -2,187 +2,63 @@
 
 ## General Concepts
 
-- **Generative AI**
-  - A branch of artificial intelligence focused on generating new content, such as text, images, music, or other data, using algorithms and models.
-
-- **Neural Network**
-  - A computational model inspired by the human brain, consisting of layers of interconnected nodes (neurons) that process data and learn patterns.
-
-- **Deep Learning**
-  - A subset of machine learning that uses neural networks with many layers (deep networks) to model complex patterns in large datasets.
-
-- **Training Data**
-  - The dataset used to train a machine learning model, consisting of input-output pairs that guide the learning process.
-
-- **Unsupervised Learning**
-  - A type of machine learning where the model learns patterns from unlabeled data, without explicit supervision or labeled examples.
+| **Termine**                 | **Definizione**                                                                                                                                                                                                 |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Generative AI**           | Un ramo dell'intelligenza artificiale focalizzato sulla generazione di nuovi contenuti, come testo, immagini, musica o altri dati, utilizzando algoritmi e modelli.                                             |
+| **Neural Network**          | Un modello computazionale ispirato al cervello umano, costituito da strati di nodi interconnessi (neuroni) che elaborano i dati e apprendono schemi.                                                            |
+| **Deep Learning**           | Una sottocategoria del machine learning che utilizza reti neurali con molti strati (reti profonde) per modellare pattern complessi in grandi dataset.                                                          |
+| **Training Data**           | Il dataset utilizzato per addestrare un modello di machine learning, costituito da coppie input-output che guidano il processo di apprendimento.                                                                |
+| **Ethical AI**              | La pratica di progettare e implementare sistemi di IA in modo equo, trasparente e allineato a principi etici per evitare danni e bias.                                                                          |
+| **Explainability**          | La capacità di comprendere e interpretare le decisioni prese dai modelli di IA, fondamentale per la fiducia e la responsabilità nei sistemi di IA.                                                              |
+| **Bias**                    | Errore sistematico introdotto da un modello che porta a risultati errati o ingiusti, spesso dovuti a squilibri nei dati di addestramento.                                                                      |
+| **Overfitting**             | Un errore di modellazione che si verifica quando un modello di machine learning apprende il rumore e i dettagli nei dati di addestramento al punto da compromettere le sue prestazioni su nuovi dati.            |
+| **Synthetic Data**          | Dati generati da un modello che imitano i dati del mondo reale, spesso utilizzati per aumentare i dataset di addestramento o per proteggere la privacy.                                                          |
+| **Jailbreak (LLM)**         | Nel contesto di un Large Language Model (LLM), il jailbreak si riferisce al processo di eludere le restrizioni e le misure di sicurezza integrate implementate dagli sviluppatori del modello.                    |
+| **Unsupervised Learning**   | Un tipo di machine learning in cui il modello apprende pattern dai dati non etichettati, senza supervisione esplicita o esempi etichettati.                                                                     |
 
 ## Models and Architectures
 
-- **Encoder**
-  - A component of a neural network, particularly in sequence-to-sequence models, that processes the input data and converts it into a fixed-size context or feature representation. This representation is then used by the decoder to generate the output sequence.
-
-- **Decoder**
-  - A component of a neural network, particularly in sequence-to-sequence models, that takes the context or feature representation produced by the encoder and generates the output sequence. The decoder often uses attention
-
-- **Context or Feature Representation**
-  - A fixed-size vector or set of vectors produced by the encoder in a neural network, summarizing the important information from the input data. This representation captures the essential features and context needed by the decoder or other subsequent layers to perform tasks such as translation, summarization, or classification.
-
-- **Feed-Forward Network**
-  - An artificial neural network in which the connections between nodes do not form cycles. Information moves in only one direction: from the input nodes to the output nodes, passing through any hidden nodes. Each node in the hidden and output layers applies an activation function to produce an output. Feed-forward networks are commonly used for classification and regression problems and are trained using backpropagation algorithms.
-
-- **ReLU (Rectified Linear Unit)**
-  - A popular activation function used in neural networks that returns zero for negative inputs and the input itself for positive inputs, promoting sparsity and alleviating the vanishing gradient problem.
-
-- **tanh (Hyperbolic Tangent)**
-  - An activation function commonly used in neural networks that squashes input values to the range [-1, 1], making it effective for outputs that range from -1 to 1.
-
-- **Autoencoder**
-  - A type of neural network used for unsupervised learning that aims to learn efficient representations of data by encoding input data into a lower-dimensional latent space and then reconstructing it.
-
-- **VAE (Variational Autoencoder)**
-  - A generative model that learns to encode input data into a probabilistic latent space, from which new data can be generated by sampling.
-
-- **GAN (Generative Adversarial Network)**
-  - A type of generative model consisting of two neural networks, a generator and a discriminator, that compete against each other to produce realistic data.
-
-- **Generator**
-  - In a GAN, the neural network that generates new data samples with the aim of fooling the discriminator into classifying them as real.
-
-- **Discriminator**
-  - In a GAN, the neural network that evaluates the authenticity of data produced by the generator, distinguishing between real and generated data.
-
-- **Transformer**
-  - A type of neural network architecture that uses self-attention mechanisms to process input data in parallel, particularly effective for natural language processing tasks.
-
-- **Seq2Seq (Sequence-to-Sequence)**
-  - A model architecture used for tasks where an input sequence is transformed into an output sequence, such as machine translation or text summarization.
-
-- **Recurrent Neural Network (RNN)**
-  - A type of neural network designed to handle sequential data by maintaining a hidden state that captures information from previous steps in the sequence.
-
-- **Long Short-Term Memory (LSTM)**
-  - A type of RNN designed to better capture long-range dependencies by using special gating mechanisms to control the flow of information.
-
-- **Retrieval-Augmented Generation (RAG)**
-  - RAG is a neural network model that enhances text generation by incorporating relevant information from external sources. It combines a **retriever** for fetching information and a **generator** for producing responses using Transformer-based models (e.g., GPT, BERT). Ideal for tasks like question answering and dialogue systems, RAG improves accuracy by accessing up-to-date or specialized information not contained within the model's training data.
-
+| **Termine**                 | **Definizione**                                                                                                                                                                                                 |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Transformer**             | Un tipo di architettura di rete neurale che utilizza meccanismi di auto-attenzione per elaborare i dati di input in parallelo, particolarmente efficace per compiti di elaborazione del linguaggio naturale.     |
+| **GPT (Generative Pre-trained Transformer)** | Un modello linguistico generativo all'avanguardia sviluppato da OpenAI, capace di produrre testi simili a quelli umani basati su un prompt fornito.                                                   |
+| **BERT (Bidirectional Encoder Representations from Transformers)** | Un modello basato su transformer progettato per comprendere il contesto delle parole in un testo considerando sia il contesto a sinistra che a destra in tutti i livelli.                             |
+| **GAN (Generative Adversarial Network)** | Un tipo di modello generativo costituito da due reti neurali, un generatore e un discriminatore, che competono tra loro per produrre dati realistici.                                                   |
+| **Autoencoder**             | Un tipo di rete neurale utilizzato per l'apprendimento non supervisionato che mira a apprendere rappresentazioni efficienti dei dati codificando i dati di input in uno spazio latente a dimensione inferiore e poi ricostruendoli. |
+| **VAE (Variational Autoencoder)** | Un modello generativo che impara a codificare i dati di input in uno spazio latente probabilistico, dal quale possono essere generati nuovi dati tramite campionamento.                                   |
+| **Latent Space**            | Uno spazio ad alta dimensione in cui i dati vengono codificati in una forma compressa, spesso utilizzato nei modelli generativi come autoencoders e GANs per rappresentare le caratteristiche dei dati di input. |
+| **Latent Variable**         | Una variabile non osservata inferita dai dati osservati, utilizzata nei modelli generativi come VAE e GAN per rappresentare strutture sottostanti.                                                             |
+| **Recurrent Neural Network (RNN)** | Un tipo di rete neurale progettata per gestire dati sequenziali mantenendo uno stato nascosto che cattura informazioni dai passaggi precedenti nella sequenza.                                            |
+| **Long Short-Term Memory (LSTM)** | Un tipo di RNN progettato per catturare meglio le dipendenze a lungo raggio utilizzando meccanismi speciali di gating per controllare il flusso di informazioni.                                        |
+| **StyleGAN**                | Una rete generativa avversaria nota per la sua capacità di generare immagini altamente realistiche con attributi controllabili manipolando lo spazio latente.                                                   |
+| **Feed-Forward Network**    | Una rete neurale artificiale in cui le connessioni tra i nodi non formano cicli. L'informazione si muove in una sola direzione: dai nodi di input ai nodi di output, passando per eventuali nodi nascosti.        |
+| **ReLU (Rectified Linear Unit)** | Una funzione di attivazione popolare utilizzata nelle reti neurali che restituisce zero per input negativi e l'input stesso per input positivi, promuovendo la sparità e alleviando il problema del gradiente che scompare. |
+| **tanh (Hyperbolic Tangent)** | Una funzione di attivazione comunemente usata nelle reti neurali che schiaccia i valori di input nell'intervallo [-1, 1], rendendola efficace per output che vanno da -1 a 1.                                     |
+| **Diffusion Model**         | Un tipo di modello generativo che impara a generare dati invertendo un processo di diffusione, spesso utilizzato per generare immagini di alta qualità.                                                        |
+| **Diffusion Probabilistic Model** | Un tipo di modello generativo che formula la generazione dei dati come un processo di diffusione, denoising gradualmente un campione per generare dati realistici.                                   |
+| **Encoder**                 | Un componente di una rete neurale, particolarmente nei modelli sequence-to-sequence, che elabora i dati di input e li converte in una rappresentazione contestuale o di caratteristiche a dimensione fissa.      |
+| **Decoder**                 | Un componente di una rete neurale, particolarmente nei modelli sequence-to-sequence, che prende la rappresentazione contestuale prodotta dall'encoder e genera la sequenza di output.                         |
+| **Context or Feature Representation** | Un vettore a dimensione fissa o un set di vettori prodotto dall'encoder in una rete neurale, riassumendo le informazioni importanti dai dati di input.                                                  |
 
 ## Techniques and Mechanisms
 
-- **Attention Mechanism**
-  - A technique used in neural networks, especially in transformers, to dynamically focus on different parts of the input sequence, improving the model's performance on tasks like translation and summarization.
-
-- **Self-Attention**
-  - A mechanism used in neural networks, particularly in transformer models, that allows each element of the input sequence to attend to all other elements. This mechanism enables the model to capture dependencies regardless of their distance in the sequence, enhancing the model's ability to understand and generate complex patterns in data.
-
-- **Encoder-Decoder Attention**
-  - A mechanism used in sequence-to-sequence models where the decoder attends to different parts of the encoder's output at each step of generating the output sequence. This allows the decoder to selectively focus on relevant parts of the input sequence, improving the quality of tasks such as translation and summarization.
-
-- **Word Embedding**
-  - A representation of words in a continuous vector space where words with similar meanings have similar representations. Word embeddings are typically learned from large corpora of text using techniques like Word2Vec, GloVe, or FastText, and they capture semantic relationships between words, enabling better performance in natural language processing tasks.
-
-- **Tokenization**
-  - The process of converting text into smaller units (tokens), such as words or subwords, which can be processed by a language model.
-
-- **Context Windows**
-  - The context window of LLMs is the number of tokens the model can take as input when generating responses. For example, in GPT-3 the context window size is 2K (2000) and in GPT-4 it is a larger 32K. There is a trend and demand for increasingly larger context window sizes in LLMs. Larger context windows improve LLM performance and their usefulness across various applications.
-
-  - A technique used in various natural language processing algorithms where a limited portion of surrounding text (context window) is considered to analyze and understand the meaning of a word or phrase. This technique helps models capture local relationships between words, enhancing text comprehension.
-
-
-- **Beam Search**
-  - A search algorithm used in sequence generation tasks to find the most likely sequence of tokens by exploring multiple possible sequences simultaneously.
-
-- **Fine-Tuning**
-  - The process of further training a pre-trained model on a specific dataset to adapt it to a particular task or domain.
-
-- **Regularization**
-  - Techniques used to prevent overfitting by adding a penalty to the model complexity, ensuring that it generalizes better to unseen data.
-
-## Metrics and Evaluation
-
-- **Perplexity**
-  - A measure of how well a language model predicts a sample, with lower perplexity indicating better predictive performance.
+| **Termine**                 | **Definizione**                                                                                                                                                                                                 |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Attention Mechanism**     | Una tecnica utilizzata nelle reti neurali, soprattutto nei transformers, per concentrarsi dinamicamente su diverse parti della sequenza di input, migliorando le prestazioni del modello su compiti come traduzione e riassunto. |
+| **Self-Attention**          | Un meccanismo nelle reti neurali, particolarmente nei modelli transformer, che consente a ciascun elemento della sequenza di input di prestare attenzione a tutti gli altri elementi, migliorando la comprensione e la generazione del modello.   |
+| **Encoder-Decoder Attention** | Un meccanismo utilizzato nei modelli sequence-to-sequence in cui il decoder si concentra su diverse parti dell'output dell'encoder a ogni passo della generazione della sequenza di output.                     |
+| **Word Embedding**          | Una rappresentazione delle parole in uno spazio vettoriale continuo in cui le parole con significati simili hanno rappresentazioni simili.                                                                        |
+| **Tokenization**            | Il processo di conversione del testo in unità più piccole (token), come parole o sotto-parole, che possono essere elaborate da un modello di linguaggio.                                                         |
+| **Context Windows**         | Una tecnica utilizzata in vari algoritmi di elaborazione del linguaggio naturale in cui viene considerata una porzione limitata del testo circostante (finestra di contesto) per analizzare e comprendere il significato di una parola o frase. |
+| **Beam Search**             | Un algoritmo di ricerca utilizzato nei compiti di generazione di sequenze per trovare la sequenza di token più probabile esplorando simultaneamente più possibili sequenze.                                       |
+| **Fine-Tuning**             | Il processo di ulteriore addestramento di un modello pre-addestrato su un dataset specifico per adattarlo a un compito o dominio particolare.                                                                   |
+| **Regularization**          | Tecniche utilizzate per prevenire l'overfitting aggiungendo una penalità alla complessità del modello, assicurando che generalizzi meglio ai dati non visti.                                                     |
 
 ## Learning Paradigms
 
-- **Zero-Shot Learning**
-  - The ability of a model to perform tasks or generate content without having seen any examples during training, relying on generalization from related tasks.
-
-- **Few-Shot Learning**
-  - The ability of a model to learn new tasks with very few training examples, demonstrating flexibility and adaptability.
-
-- **Transfer Learning**
-  - A machine learning technique where a pre-trained model is adapted to a new task with limited data, leveraging the knowledge learned from the original task.
-
-## Special Topics and Applications
-
-- **Text-to-Image Synthesis**
-  - The process of generating images based on textual descriptions using generative models.
-
-- **Inpainting**
-  - The task of generating missing parts of an image or text, often used in image editing and text completion.
-
-- **Synthetic Data**
-  - Data generated by a model that mimics real-world data, often used to augment training datasets or protect privacy.
-
-- **Ethical AI**
-  - The practice of designing and deploying AI systems in ways that are fair, transparent, and aligned with ethical principles to avoid harm and bias.
-
-- **Explainability**
-  - The ability to understand and interpret the decisions made by AI models, crucial for trust and accountability in AI systems.
-
-## Specific Models and Frameworks
-
-- **GPT (Generative Pre-trained Transformer)**
-  - A state-of-the-art generative language model developed by OpenAI, capable of producing human-like text based on a given prompt.
-
-- **BERT (Bidirectional Encoder Representations from Transformers)**
-  - A transformer-based model designed for understanding the context of words in a text by considering both the left and right context in all layers.
-
-- **StyleGAN**
-  - A generative adversarial network known for its ability to generate highly realistic images with controllable attributes by manipulating the latent space.
-
-## Probabilistic Models
-
-- **Diffusion Model**
-  - A type of generative model that learns to generate data by reversing a diffusion process, often used in generating high-quality images.
-
-- **Diffusion Probabilistic Model**
-  - A type of generative model that formulates data generation as a diffusion process, gradually denoising a sample to generate realistic data.
-
-## Latent Spaces and Variables
-
-- **Latent Space**
-  - A high-dimensional space where data is encoded in a compressed form, often used in generative models like autoencoders and GANs to represent features of the input data.
-
-- **Latent Variable**
-  - An unobserved variable inferred from the observed data, used in generative models like VAEs and GANs to represent underlying structures.
-
-## Optimization and Training Techniques
-
-- **Hyperparameter**
-  - Configuration settings used to control the training process of a machine learning model, such as learning rate, batch size, and number of layers.
-
-- **Policy Gradient**
-  - A reinforcement learning technique where the policy, or the strategy used by the agent, is directly optimized using gradient-based methods.
-
-## Domains and Tasks
-
-- **Natural Language Processing (NLP)**
-  - A field of AI focused on the interaction between computers and human language, involving tasks like text generation, translation, and sentiment analysis.
-
-## Challenges and Issues
-
-- **Overfitting**
-  - A modeling error that occurs when a machine learning model learns the noise and details in the training data to the extent that it negatively impacts the model's performance on new data.
-
-- **Bias**
-  - Systematic error introduced by a model that leads to incorrect or unfair outcomes, often due to imbalances in the training data.
-
-## Reinforcement Learning
-
-- **Reinforcement Learning (RL)**
-  - A type of machine learning where an agent learns to make decisions by interacting with an environment and receiving feedback in the form of rewards or penalties.
-
+| **Termine**                 | **Definizione**                                                                                                                                                                                                 |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Reinforcement Learning (RL)** | Un tipo di machine learning in cui un agente impara a prendere decisioni interagendo con un ambiente e ricevendo feedback sotto forma di ricompense o penalità.                                               |
+| **Zero-Shot Learning**       | La capacità di un modello di eseguire compiti o generare contenuti senza aver visto alcun esempio durante l'addestramento, basandosi sulla generalizzazione da compiti correlati.                                |
+| **Few-Shot Learning**        | La capacità di un modello di apprendere nuovi compiti con pochissimi esempi di addestramento, dimostrando flessibilità e adattabilità.                                                                           |
+| **Transfer Learning**        | Una tecnica di machine learning in cui un modello pre-addestrato viene adattato a un nuovo compito con dati limitati, sfruttando le conoscenze apprese dal compito originale.                                     |
