@@ -21,6 +21,9 @@ Whether you are a beginner or an experienced professional, this repository aims 
 
 [<img src="gallery/path_training_icon.png" align="left"  width="30" height="30" style="margin-right: 10px;"/>Learning path board](https://festive-chestnut-92c.notion.site/Generative-AI-Study-Notes-0f6a0129164645c5a862e6eebb2e2986)
 
+
+[<img src="gallery/ai_key_professional_roles.png" align="left"  width="28" height="28" style="margin-right: 10px;"/>AI key professional roles](https://festive-chestnut-92c.notion.site/AI-key-professional-roles-117fe8be919b8043984dff4393124d31)
+
 # <img src="gallery/umarell.png"  align="right" width="40" height="40"/> LLM Leaderboard ## 
 
 
